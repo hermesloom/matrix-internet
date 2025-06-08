@@ -1,0 +1,3 @@
+Replace the entire page by a Shadcn-based UI that looks like a web browser (within the user's actual web browser) and which has the same very basic functionality of a regular web browser, including using a Matrix client library to fetch data from Matrix users that serve files in a room with a predefined identifier/name, and being able to enter these usernames like URLs. The returned data is then in MDX, which should also be rendered
+
+In the "UI" of that browser, also include a button which explains you how to host your own website, with clear instructions how to do that for the "Element" Matrix client.
